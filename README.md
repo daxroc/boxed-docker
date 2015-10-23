@@ -1,4 +1,7 @@
-# boxed-docker
+# boxed-docker-cookbook
 
-TODO: Enter the cookbook description here.
+This cookbook installs Docker and related tools, and 
 
+## Default containers
+Centos
+busybox
